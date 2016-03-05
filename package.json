@@ -1,0 +1,37 @@
+{
+  "name": "postcssAndJadeBoilerplate",
+  "version": "0.0.1",
+  "description": "Boilerplate with postcss and jade preprocessros",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "autoprefixer": "^6.1.1",
+    "cssnano": "^3.3.2",
+    "gulp": "^3.9.0",
+    "gulp-browserify": "^0.5.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-if": "^2.0.0",
+    "gulp-jade": "^1.1.0",
+    "gulp-minify-html": "^1.0.6",
+    "gulp-postcss": "^6.0.1",
+    "gulp-uglify": "^1.5.3",
+    "gulp-util": "^3.0.7",
+    "gulp-webserver": "^0.9.1",
+    "postcss-animation": "0.0.6",
+    "postcss-color-function": "^2.0.0",
+    "precss": "^1.4.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monapasan/postcssAndJadeBoilerplate.git.git"
+  },
+  "author": "Oleg Yarin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/monapasan/postcssAndJadeBoilerplate.git/issues"
+  },
+  "homepage": "https://github.com/monapasan/postcssAndJadeBoilerplate.git#readme"
+}
