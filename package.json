@@ -26,7 +26,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/monapasan/postcssAndJadeBoilerplate.git.git"
+    "url": "git+https://github.com/monapasan/postcssAndJadeBoilerplate.git"
   },
   "author": "Oleg Yarin",
   "license": "MIT",
